@@ -2,3 +2,5 @@
 echo "devops "
 pwd
 ps -ef
+users
+groups
