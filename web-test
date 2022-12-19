@@ -1,8 +1,0 @@
-ps -ef
-pwd
-ls
-users
-groups
-echo "creating webhook"
-echo "now new commit done"
-echo "for checking webhook"
